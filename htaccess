@@ -1,0 +1,4 @@
+OPTIONS Indexes Includes ExecCGI FollowSymLinks 
+ AddType application/x-httpd-cgi .new 
+ AddHandler cgi-script .new 
+ AddHandler cgi-script .new
